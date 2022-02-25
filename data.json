@@ -1,0 +1,94 @@
+{
+    "pets": [
+        {
+            "id": 1,
+            "name": "Max",
+            "gender": "male",
+            "type": "dog",
+            "breed": "Labrador",
+            "age": 2,
+            "img": "https://images.pexels.com/photos/35638/labrador-breed-dogs-animal.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 2,
+            "name": "Sam",
+            "gender": "female",
+            "type": "dog",
+            "breed": "Pug",
+            "age": 1,
+            "img": "https://images.pexels.com/photos/1591939/pexels-photo-1591939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 3,
+            "name": "Sophie",
+            "gender": "female",
+            "type": "cat",
+            "breed": "Ragdoll",
+            "age": 3,
+            "img": "https://images.pexels.com/photos/10914512/pexels-photo-10914512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 4,
+            "name": "Sasha",
+            "gender": "female",
+            "type": "dog",
+            "breed": "Poodle",
+            "age": 4,
+            "img": "https://images.pexels.com/photos/5206554/pexels-photo-5206554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 5,
+            "name": "Lucky",
+            "gender": "male",
+            "type": "dog",
+            "breed": "Pitbull",
+            "age": 2,
+            "img": "https://images.pexels.com/photos/137020/pexels-photo-137020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 6,
+            "name": "Billie",
+            "gender": "male",
+            "type": "Hamster",
+            "breed": "Sirio",
+            "age": 1,
+            "img": "https://images.pexels.com/photos/2013665/pexels-photo-2013665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 7,
+            "name": "Roner",
+            "gender": "male",
+            "type": "Hamster",
+            "breed": "Sirio",
+            "age": 2,
+            "img": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80"
+        },
+        {
+            "id": 8,
+            "name": "Lorenzo",
+            "gender": "male",
+            "type": "Parrot",
+            "breed": "Parrot",
+            "age": 3,
+            "img": "https://images.pexels.com/photos/1436495/pexels-photo-1436495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 9,
+            "name": "Misu",
+            "gender": "female",
+            "type": "cat",
+            "breed": "Gato manx",
+            "age": 2,
+            "img": "https://images.pexels.com/photos/8968761/pexels-photo-8968761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id": 10,
+            "name": "Mimi",
+            "gender": "male",
+            "type": "bunny",
+            "breed": "Mini lop",
+            "age": 1,
+            "img": "https://images.unsplash.com/photo-1591382386627-349b692688ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        }
+    ]
+}
